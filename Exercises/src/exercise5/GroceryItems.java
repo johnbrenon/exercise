@@ -13,7 +13,7 @@ public class GroceryItems {
     public static void main(String[] args) {
         initializeProducts();
         String tryAgain ="y";
-
+        System.out.println("test");
         Scanner scanner = new Scanner(System.in);
 
         do {
